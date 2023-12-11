@@ -1,13 +1,13 @@
 # The-Shopping-Trend
 
-##Overview
+#Overview
 **Context**
 The Customer Shopping Preferences Dataset provides valuable insights into consumer behavior and buying patterns. Businesses need to comprehend customer preferences and trends to customize their products, refine marketing strategies, and improve the overall customer experience. This dataset encompasses a diverse array of customer attributes, including age, gender, purchase history, preferred payment methods, purchase frequency, and more. Analyzing this data facilitates informed decision-making for businesses, enabling them to optimize their product offerings and elevate customer satisfaction. The dataset serves as a crucial asset for businesses seeking to align their strategies with customer needs and preferences. It is important to emphasize that this dataset is a Synthetic Dataset designed for beginners aiming to enhance their understanding of Data Analysis and Machine Learning.
 
 **Content**
 This dataset encompasses various features related to customer shopping preferences, gathering essential information for businesses seeking to enhance their understanding of their customer base. The features include customer age, gender, purchase amount, preferred payment methods, frequency of purchases, and feedback ratings. Additionally, data on the type of items purchased, shopping frequency, preferred shopping seasons, and interactions with promotional offers is included. With a collection of 3900 records, this dataset serves as a foundation for businesses looking to apply data-driven insights for better decision-making and customer-centric strategies.
 
-##Project Highlight
+#Project Highlight
 
 **Data Preprocessing**: The dataset used for the analysis consists of 3900 rows and 18 columns, with no missing or duplicate values. The dataset features include various attributes related to customer purchases such as Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), and more.
 
